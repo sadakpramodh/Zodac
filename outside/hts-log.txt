@@ -1,0 +1,37 @@
+HTTrack3.48-13+htsswf+htsjava launched on Wed, 20 May 2015 16:05:35 at http://webapplayers.com/inspinia_admin-v2.1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://webapplayers.com/inspinia_admin-v2.1/ -O1 "C:\My Web Sites\projectblue" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:23:05	Warning: 	Retry after error -4 (Incorrect length (32120 Bytes, 113739 expected)) at link webapplayers.com/inspinia_admin-v2.1/img/email_3.jpg (from webapplayers.com/inspinia_admin-v2.1/email_template.html)
+16:24:32	Warning: 	Retry after error -4 (Incorrect length (75920 Bytes, 329324 expected)) at link webapplayers.com/inspinia_admin-v2.1/img/gallery/1.jpg (from webapplayers.com/inspinia_admin-v2.1/basic_gallery.html)
+16:24:32	Warning: 	Retry after error -4 (Incorrect length (121180 Bytes, 413418 expected)) at link webapplayers.com/inspinia_admin-v2.1/img/gallery/2.jpg (from webapplayers.com/inspinia_admin-v2.1/basic_gallery.html)
+16:24:32	Warning: 	Retry after error -4 (Incorrect length (356240 Bytes, 449061 expected)) at link webapplayers.com/inspinia_admin-v2.1/img/gallery/10.jpg (from webapplayers.com/inspinia_admin-v2.1/basic_gallery.html)
+16:24:32	Warning: 	Retry after error -2 (Receive Time Out) at link webapplayers.com/inspinia_admin-v2.1/img/p_big2.jpg (from webapplayers.com/inspinia_admin-v2.1/carousel.html)
+16:29:38	Warning: 	Retry after error -4 (Incorrect length (51100 Bytes, 205039 expected)) at link webapplayers.com/inspinia_admin-v2.1/Landing_page/img/iphone.jpg (from webapplayers.com/inspinia_admin-v2.1/Landing_page/index.html)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/fonts/glyphicons-halflings-regular.eot (from webapplayers.com/inspinia_admin-v2.1/css/plugins/summernote/summernote-bs3.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/fonts/glyphicons-halflings-regular.eot? (from webapplayers.com/inspinia_admin-v2.1/css/plugins/summernote/summernote-bs3.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/fonts/glyphicons-halflings-regular.woff (from webapplayers.com/inspinia_admin-v2.1/css/plugins/summernote/summernote-bs3.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/fonts/glyphicons-halflings-regular.ttf (from webapplayers.com/inspinia_admin-v2.1/css/plugins/summernote/summernote-bs3.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/fonts/glyphicons-halflings-regular.svg (from webapplayers.com/inspinia_admin-v2.1/css/plugins/summernote/summernote-bs3.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/images/sort_both.png (from webapplayers.com/inspinia_admin-v2.1/css/plugins/dataTables/dataTables.bootstrap.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/images/sort_asc_disabled.png (from webapplayers.com/inspinia_admin-v2.1/css/plugins/dataTables/dataTables.bootstrap.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/images/sort_desc_disabled.png (from webapplayers.com/inspinia_admin-v2.1/css/plugins/dataTables/dataTables.bootstrap.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/images/collection.png (from webapplayers.com/inspinia_admin-v2.1/css/plugins/dataTables/dataTables.tableTools.min.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/images/collection_hover.png (from webapplayers.com/inspinia_admin-v2.1/css/plugins/dataTables/dataTables.tableTools.min.css)
+16:30:27	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/css/plugins/images/background.png (from webapplayers.com/inspinia_admin-v2.1/css/plugins/dataTables/dataTables.tableTools.min.css)
+16:30:27	Warning: 	Retry after error -2 (Receive Time Out) at link webapplayers.com/inspinia_admin-v2.1/Landing_page/fonts/glyphicons-halflings-regular.ttf (from webapplayers.com/inspinia_admin-v2.1/Landing_page/css/bootstrap.min.css)
+16:30:27	Warning: 	Retry after error -4 (Incorrect length (144332 Bytes, 287007 expected)) at link webapplayers.com/inspinia_admin-v2.1/Landing_page/font-awesome/fonts/fontawesome-webfont.svg?v=4.2.0 (from webapplayers.com/inspinia_admin-v2.1/Landing_page/font-awesome/css/font-awesome.min.css)
+16:30:27	Warning: 	Retry after error -4 (Incorrect length (67160 Bytes, 142245 expected)) at link webapplayers.com/inspinia_admin-v2.1/Landing_page/img/header_one.jpg (from webapplayers.com/inspinia_admin-v2.1/Landing_page/css/style.css)
+16:30:43	Warning: 	Retry after error -4 (Incorrect length (33580 Bytes, 203820 expected)) at link webapplayers.com/inspinia_admin-v2.1/Landing_page/img/header_two.jpg (from webapplayers.com/inspinia_admin-v2.1/Landing_page/css/style.css)
+16:32:12	Warning: 	Retry after error -4 (Incorrect length (73000 Bytes, 152167 expected)) at link webapplayers.com/inspinia_admin-v2.1/Angular/js/controllers.js (from webapplayers.com/inspinia_admin-v2.1/Angular/)
+16:32:12	Warning: 	Retry after error -4 (Incorrect length (39420 Bytes, 287007 expected)) at link webapplayers.com/inspinia_admin-v2.1/Landing_page/font-awesome/fonts/fontawesome-webfont.svg?v=4.2.0 (from webapplayers.com/inspinia_admin-v2.1/Landing_page/font-awesome/css/font-awesome.min.css)
+16:32:15	Warning: 	Retry after error -4 (Incorrect length (80300 Bytes, 142245 expected)) at link webapplayers.com/inspinia_admin-v2.1/Landing_page/img/header_one.jpg (from webapplayers.com/inspinia_admin-v2.1/Landing_page/css/style.css)
+16:32:33	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.1/Angular/fonts/glyphicons-halflings-regular.woff2 (from webapplayers.com/inspinia_admin-v2.1/Angular/css/bootstrap.min.css)
+16:33:49	Warning: 	Retry after error -4 (Incorrect length (46729 Bytes, 53605 expected)) at link webapplayers.com/inspinia_admin-v2.1/Angular/js/controllers.js (from webapplayers.com/inspinia_admin-v2.1/Angular/)
+
+HTTrack Website Copier/3.48-13 mirror complete in 30 minutes 22 seconds : 400 links scanned, 373 files written (21746246 bytes overall) [15189432 bytes received at 8336 bytes/sec], 9040682 bytes transferred using HTTP compression in 223 files, ratio 23%, 5.2 requests per connection
+(12 errors, 14 warnings, 0 messages)
